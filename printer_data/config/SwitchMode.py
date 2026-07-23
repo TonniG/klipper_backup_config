@@ -1,4 +1,5 @@
 >>> import sys
+
 >>> config_file_path = '/home/biqu/printer_data/config/printer.cfg'
 ... 
 ... def modifyLine(mode):
